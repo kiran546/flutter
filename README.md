@@ -5,9 +5,9 @@
 
 **1)** Download Android Studio and Install It
 
-**2)** Download Command line tools and and extract in ***C:\Users\kadam\AppData\Local\Android\Sdk***
+**2)** Download Command line tools and and extract in ***C:\Users\acer\AppData\Local\Android\Sdk***
 -- create a New Folder as "latest" and cut all other command line files in "latest" folder
--- copy ***C:\Users\kadam\AppData\Local\Android\Sdk\cmdline-tools\latest\bin*** path and put that in User Enviroment Variables as a New Path:
+-- copy ***C:\Users\acer\AppData\Local\Android\Sdk\cmdline-tools\latest\bin*** path and put that in User Enviroment Variables as a New Path:
 
 **3)** Download flutterStable.zip folder and extract in ***C:***
 -- copy ***C:\Flutter\bin*** path and put that in User Enviroment Variables as a New Path:
